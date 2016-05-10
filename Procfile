@@ -1,1 +1,1 @@
-web: npm run start-remote
+web: npm run start
